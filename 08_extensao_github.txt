@@ -1,0 +1,1 @@
+A extensão GitHub Pull Requests é usada para gerenciamentos de PRs sem sair do VS Code.
